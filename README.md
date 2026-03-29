@@ -2,10 +2,6 @@
 
 ## Course Details
 - Course Name: Open Source Software (OSS NGMC)
-- Project Type: Capstone Project
-- Unit Coverage: 1 – 5
-- Max Marks: 100
-
 ---
 
 ## Student Information
