@@ -6,7 +6,7 @@
 
 ## Student Information
 - Name: ADARSH BHARDWAJ
-- Roll Number: 24BCE10747
+- Reg Number: 24BCE10747
 - Slot: A13
 - Submission Date: 29/03/26
 
